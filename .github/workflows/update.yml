@@ -1,0 +1,31 @@
+name: update readme
+
+on:
+  # run every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # or when i manually trigger it
+  workflow_dispatch:
+  
+  # or when there is a push to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  wakatime:
+    name: fetch data from wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # configuration
+          # see: https://github.com/athul/waka-readme#tweaks
+          TIME_RANGE: last_30_days
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: TOML JSON
+          
+          COMMIT_MESSAGE: "chore(wakatime): update stats"
