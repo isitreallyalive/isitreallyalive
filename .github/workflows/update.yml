@@ -7,11 +7,6 @@ on:
   
   # or when i manually trigger it
   workflow_dispatch:
-  
-  # or when there is a push to the main branch
-  push:
-    branches:
-      - main
 
 jobs:
   wakatime:
