@@ -24,8 +24,28 @@ jobs:
 
           # configuration
           # see: https://github.com/athul/waka-readme#tweaks
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: TOML JSON
-          
+
           COMMIT_MESSAGE: "chore(wakatime): update stats"
+
+  snake:
+    name: generate snake game
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: generate svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/ctp-mocha-mauve.svg?color_snake=#8aadf4&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7
+          
+      - name: upload svg
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
