@@ -30,3 +30,5 @@ JSON              1 hr 25 mins    █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![snake commit graph](https://raw.githubusercontent.com/isitreallyalive/isitreallyalive/refs/heads/snake/ctp-mocha-mauve.svg)

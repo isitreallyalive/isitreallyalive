@@ -3,7 +3,7 @@ name: update readme
 on:
   # run every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
   
   # or when i manually trigger it
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/ctp-mocha-mauve.svg?color_snake=#8aadf4&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7
+            dist/ctp-mocha-mauve.svg?color_snake=#cba6f7&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7
           
       - name: upload svg
         uses: crazy-max/ghaction-github-pages@v4.2.0
