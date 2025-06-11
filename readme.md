@@ -30,13 +30,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 22 mins
+Total Time: 21 hrs 45 mins
 
-Rust               11 hrs 3 mins   ██████████████░░░░░░░░░░░   55.82 %
-TypeScript         3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Markdown           1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-YAML               1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Makefile           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Rust               12 hrs 10 mins  █████████████▓░░░░░░░░░░░   54.78 %
+TypeScript         3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Markdown           2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+YAML               1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Makefile           1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
