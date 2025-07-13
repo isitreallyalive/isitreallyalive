@@ -30,13 +30,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 hrs 57 mins
+Total Time: 23 hrs 49 mins
 
-Rust                       17 hrs 30 mins  ████████████████░░░░░░░░░   63.56 %
-Nix                        2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Gradle                     2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Groovy                     1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Java                       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Rust          18 hrs 39 mins  ███████████████████░░░░░░   76.44 %
+Nix           2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+TypeScript    41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
