@@ -30,12 +30,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 48 mins
+Total Time: 18 hrs 50 mins
 
-TypeScript   14 hrs 56 mins  ███████████████████▒░░░░░   77.21 %
-Svelte       59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Rust         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   15 hrs 2 mins   ███████████████████▒░░░░░   77.62 %
+Docker       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Rust         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
