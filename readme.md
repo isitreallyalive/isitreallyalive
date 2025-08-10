@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs
+Total Time: 31 hrs 18 mins
 
-Rust             14 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.33 %
-Markdown         3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-YAML             3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Other            2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Makefile         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Rust             12 hrs 17 mins  █████████▒░░░░░░░░░░░░░░░   37.25 %
+Astro            4 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Markdown         3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Svelte           2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+YAML             1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
