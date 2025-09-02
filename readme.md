@@ -34,13 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 38 mins
+Total Time: 5 hrs 30 mins
 
-Python       2 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.15 %
-Rust         2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.66 %
-Bash         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-C            22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Makefile     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Rust         2 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   45.05 %
+Python       1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+C            22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Text         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
