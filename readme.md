@@ -34,9 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 39 mins
 
-No activity tracked
+TypeScript   24 mins         ███████████████░░░░░░░░░░   60.50 %
+Rust         10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Makefile     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
