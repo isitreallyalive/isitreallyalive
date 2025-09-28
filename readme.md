@@ -34,11 +34,11 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 59 mins
+Total Time: 13 hrs 18 mins
 
-Markdown     7 hrs 53 mins   ████████████████████████▓   98.80 %
-Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown     12 hrs 46 mins  ████████████████████████░   95.94 %
+Java         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
