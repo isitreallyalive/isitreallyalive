@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 24 mins
+Total Time: 17 hrs 22 mins
 
-Markdown            13 hrs 26 mins  ████████████████████▒░░░░   81.45 %
-Java                2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-Kotlin              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-IDEA_MODULE         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Markdown            14 hrs 25 mins  ████████████████████▓░░░░   82.49 %
+Java                2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Kotlin              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+IDEA_MODULE         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
