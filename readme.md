@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 58 mins
+Total Time: 19 hrs
 
-Python       9 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.87 %
-Markdown     3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Rust         1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Java         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Astro        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python       9 hrs 59 mins   █████████████░░░░░░░░░░░░   52.59 %
+Markdown     3 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Java         2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Svelte       1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Astro        1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
