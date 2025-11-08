@@ -34,12 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 21 mins
+Total Time: 11 hrs 56 mins
 
-Markdown   6 hrs 17 mins   ████████████████▓░░░░░░░░   66.79 %
-Rust       2 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Python     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown   8 hrs 51 mins   ██████████████████▒░░░░░░   73.92 %
+Rust       2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+Python     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
