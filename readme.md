@@ -34,12 +34,9 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 31 mins
+Total Time: 11 hrs 28 mins
 
-Markdown     12 hrs 7 mins   █████████████████████░░░░   83.53 %
-Rust         2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   11 hrs 28 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
