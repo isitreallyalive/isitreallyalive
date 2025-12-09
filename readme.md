@@ -34,9 +34,9 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 48 mins
+Total Time: 7 hrs 13 mins
 
-Markdown   11 hrs 48 mins  █████████████████████████   100.00 %
+Markdown   7 hrs 13 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
