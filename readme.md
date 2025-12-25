@@ -34,12 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs
+Total Time: 7 hrs 58 mins
 
-Markdown     5 hrs 7 mins    ████████████████░░░░░░░░░   63.92 %
-GDScript3    2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-Astro        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown     5 hrs 5 mins    ████████████████░░░░░░░░░   63.74 %
+GDScript3    2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+Astro        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 MDX          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
