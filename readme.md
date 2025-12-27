@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 10 mins
+Total Time: 5 hrs 31 mins
 
-Markdown     4 hrs 17 mins   ███████████████░░░░░░░░░░   59.71 %
-GDScript3    2 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
-Astro        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-MDX          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+GDScript3        2 hrs 36 mins   ███████████░░░░░░░░░░░░░░   43.53 %
+Markdown         1 hr 42 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Other            28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Makefile         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Astro            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
