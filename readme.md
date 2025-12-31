@@ -34,13 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 58 mins
+Total Time: 9 hrs 1 min
 
-Rust             4 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.65 %
-GDScript3        2 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
-Makefile         1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Other            31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Astro            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Rust                      5 hrs 50 mins   ███████████████▒░░░░░░░░░   61.21 %
+Makefile                  1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+GDScript3                 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Other                     30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
