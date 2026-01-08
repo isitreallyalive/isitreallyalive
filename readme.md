@@ -34,12 +34,9 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 35 mins
+Total Time: 3 mins
 
-Rust                      5 hrs 38 mins   █████████████████████▒░░░   85.63 %
-WebGPU Shading Language   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Markdown                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Makefile                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Markdown   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
