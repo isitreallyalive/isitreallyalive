@@ -34,9 +34,9 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 17 mins
 
-No activity tracked
+Markdown   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
