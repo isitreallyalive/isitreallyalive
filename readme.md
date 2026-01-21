@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 30 mins
 
-Rust       1 hr 8 mins     ████████████████████▒░░░░   81.06 %
-Typst      9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Rust       1 hr 8 mins     ██████████████████▓░░░░░░   74.15 %
+Typst      11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Java       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
