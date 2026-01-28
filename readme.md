@@ -34,11 +34,9 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 mins
+Total Time: 0 secs
 
-Java       5 mins          ████████████████░░░░░░░░░   64.17 %
-Typst      2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-Markdown   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
