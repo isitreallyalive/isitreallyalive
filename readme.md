@@ -34,9 +34,10 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 38 mins
 
-No activity tracked
+Python     38 mins               ████████████████████████▓   98.87 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
