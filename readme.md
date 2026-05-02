@@ -34,9 +34,10 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 4 mins
 
-No activity tracked
+Rust    4 mins                ████████████████████████░   95.97 %
+jsonc   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
