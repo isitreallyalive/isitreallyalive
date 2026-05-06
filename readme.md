@@ -34,11 +34,11 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 2 mins
+Total Time: 5 hrs 4 mins
 
-Rust           3 hrs 35 mins         ██████████████████████▒░░   88.78 %
-git ignore     10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-shell script   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Rust           4 hrs 31 mins         ██████████████████████▒░░   89.16 %
+git ignore     10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Python         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
