@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 43 mins
+Total Time: 4 hrs 27 mins
 
-Rust           2 hrs 24 mins         ██████████▓░░░░░░░░░░░░░░   42.15 %
-Svelte         49 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Markdown       41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-TypeScript     41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Bash           18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Rust           1 hr 14 mins          ███████░░░░░░░░░░░░░░░░░░   27.92 %
+Svelte         49 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Markdown       41 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+TypeScript     41 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Bash           18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
