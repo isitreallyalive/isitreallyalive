@@ -34,12 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 13 mins
+Total Time: 5 hrs 55 mins
 
-Rust           3 hrs 21 mins         ████████████████████░░░░░   79.44 %
-CSS            11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Markdown       10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Just           5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Rust           4 hrs 50 mins         ████████████████████▒░░░░   81.65 %
+Just           13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+CSS            11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Markdown       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
