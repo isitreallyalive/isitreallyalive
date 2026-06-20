@@ -34,12 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 4 mins
+Total Time: 46 mins
 
-Rust           1 hr 25 mins          █████████████████▒░░░░░░░   68.78 %
-Just           3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-shell script   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-YAML           1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Rust       41 mins               ██████████████████████▒░░   89.30 %
+Just       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Makefile   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
