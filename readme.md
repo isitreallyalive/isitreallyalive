@@ -34,9 +34,12 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 5 mins
 
-No activity tracked
+Markdown     46 mins               █████████████████▓░░░░░░░   70.74 %
+Ezhil        15 mins               ██████░░░░░░░░░░░░░░░░░░░   24.11 %
+Typst        3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
