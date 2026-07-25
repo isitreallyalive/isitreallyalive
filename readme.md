@@ -36,7 +36,7 @@ here's some info from the past 7 days!
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Markdown   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
