@@ -36,7 +36,8 @@ here's some info from the past 7 days!
 ```txt
 Total Time: 0 secs
 
-Markdown   0 secs                █████████████████████████   100.00 %
+Markdown   0 secs                ████████████████████████░   96.00 %
+GDScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
