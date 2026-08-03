@@ -36,7 +36,7 @@ here's some info from the past 7 days!
 ```txt
 Total Time: 0 secs
 
-GDScript   0 secs                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
