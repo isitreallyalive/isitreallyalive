@@ -34,13 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 5 mins
+Total Time: 4 hrs 49 mins
 
-Rust             1 hr 19 mins          ██████████▓░░░░░░░░░░░░░░   42.94 %
-Makefile         38 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-Just             17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-GDScript         12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Godot Resource   12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Rust             3 hrs 2 mins          ███████████████▓░░░░░░░░░   63.26 %
+Makefile         38 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Just             17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+GDScript         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Godot Resource   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
