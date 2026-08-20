@@ -34,10 +34,10 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 18 mins
+Total Time: 1 hr 36 mins
 
-Rust         2 hrs 10 mins         ███████████████████████▓░   94.40 %
-git ignore   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Rust         1 hr 28 mins          ███████████████████████░░   91.96 %
+git ignore   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:waka-->
