@@ -36,8 +36,8 @@ here's some info from the past 7 days!
 ```txt
 Total Time: 1 hr 36 mins
 
-Rust         1 hr 28 mins          ███████████████████████░░   91.96 %
-git ignore   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Rust         1 hr 28 mins          ███████████████████████░░   91.95 %
+git ignore   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
