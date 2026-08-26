@@ -34,10 +34,13 @@ here's some info from the past 7 days!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 1 hr 29 mins
 
-Rust         2 mins                ██████████████████░░░░░░░   72.49 %
-git ignore   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Ezhil            40 mins               ███████████░░░░░░░░░░░░░░   44.66 %
+Godot Resource   26 mins               ███████▒░░░░░░░░░░░░░░░░░   29.97 %
+TSQL             9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+GDScript         8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+GDScript3        5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
